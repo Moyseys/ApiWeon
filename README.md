@@ -1,7 +1,7 @@
 # ApiWeon
  
 Weon é um sistema criado pela Nowe para gerenciar dados e documentos.   
-Weon está hospedada nesse [link](https://weonsystem.netlify.app/). 
+Weon está hospedada nesse [site](https://weonsystem.netlify.app/) e seu [repositório](https://github.com/NoweCompany/weon). 
 
 Login para visitantes   
 Email: visitante@gmail.com  
